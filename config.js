@@ -1,4 +1,1 @@
-window.APP_CONFIG = {
-  SUPABASE_URL: 'https://absensiswa-32w2.vercel.app/',
-  SUPABASE_PUBLISHABLE_KEY: 'GANTI_DENGAN_PUBLISHABLE_KEY'
-};
+[https://docs.google.com/spreadsheets/d/1XH6GJXnV9er9RDQNtUSFCg9veOFTJnP6jRhsZPOw2e0/edit?gid=804281810#gid=804281810]
